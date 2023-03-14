@@ -10,3 +10,4 @@ import datetime
 
 #getting list of stocks
 
+#no key
